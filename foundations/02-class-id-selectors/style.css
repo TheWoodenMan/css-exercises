@@ -1,20 +1,18 @@
-.one,
-.three,
-.five {
+.odd {
     background-color: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.two {
+#two {
     font-size: 36px;
     color: hsl(240, 100%, 50%);
 }
 
-.three {
+#three {
     font-size: 36px;
 }
 
-.four {
+#four {
     font-weight: bold;
     font-size: 24px;
     background-color: rgb(144, 238, 144);
